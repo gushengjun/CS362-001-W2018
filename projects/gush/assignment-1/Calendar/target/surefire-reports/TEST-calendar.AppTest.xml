@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="calendar.AppTest" time="0.004" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="calendar.AppTest" time="0.002" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="9.0.1+11"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\24693\OneDrive\cs362\CS362-001-W2018\projects\gush\Calendar"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\24693\OneDrive\cs362\CS362-001-W2018\projects\gush\assignment-1\Calendar"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="CN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\24693\OneDrive\cs362\CS362-001-W2018\projects\gush\Calendar"/>
+    <property name="user.dir" value="C:\Users\24693\OneDrive\cs362\CS362-001-W2018\projects\gush\assignment-1\Calendar"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="9.0.1+11"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
@@ -29,7 +29,7 @@
     <property name="os.name" value="Windows 10"/>
     <property name="classworlds.conf" value="C:\Program Files\apache-maven-3.5.2\bin\..\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="GBK"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\apache-maven-3.5.2\bin;C:\Program Files\Java\jdk\bin;C:\Program Files\Java\jre\bin;C:\Program Files\apache-maven-3.5.2\bin;C:\Program Files\Git\cmd;C:\Users\24693\AppData\Local\Microsoft\WindowsApps;C:\Users\24693\AppData\Local\GitHubDesktop\bin;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk\bin;C:\Program Files\Java\jre\bin;C:\Program Files\apache-maven-3.5.2\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\24693\AppData\Local\Microsoft\WindowsApps;C:\Users\24693\AppData\Local\GitHubDesktop\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;."/>
     <property name="maven.conf" value="C:\Program Files\apache-maven-3.5.2\bin\../conf"/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="53.0"/>
@@ -64,5 +64,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="calendar.AppTest" name="testApp" time="0.004"/>
+  <testcase classname="calendar.AppTest" name="testApp" time="0.002"/>
 </testsuite>

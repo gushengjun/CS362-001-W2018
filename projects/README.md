@@ -1,2 +1,6 @@
 # CS362-001-W2018
-The projects directory should contains your onid folder
+
+Name: Shengjun Gu
+Onid: gush
+Mail: gush@oregonstate.edu
+
