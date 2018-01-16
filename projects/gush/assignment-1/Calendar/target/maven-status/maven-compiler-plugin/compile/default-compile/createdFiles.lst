@@ -1,1 +1,7 @@
+calendar\CalDay.class
+calendar\CalendarUtil.class
+calendar\TimeTable.class
 calendar\App.class
+calendar\Appt.class
+calendar\CalendarMain.class
+calendar\DateOutOfRangeException.class
